@@ -1,0 +1,14 @@
+<html>
+
+<head>
+<title> 1ª Página da Web feita no Notepad :) </title>
+</head>
+
+<body>
+<p> Vamos começar utilizando um parágrafo para poder visualizar os elementos básicos do HTML. </p>
+<br> Vamos também </br>
+quebrar uma linha.
+
+</body>
+
+</html>
